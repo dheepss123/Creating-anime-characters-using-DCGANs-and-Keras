@@ -50,6 +50,3 @@ Proyek ini bertujuan untuk menggunakan Deep Convolutional Generative Adversarial
 ## Kontribusi
 Kontribusi terhadap proyek ini sangat dipersilakan. Silakan buat *pull request* dengan perbaikan atau tambahan fitur.
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
